@@ -45,6 +45,12 @@ Each body is defined by:
 - Dark matter and binary systems (e.g. Alpha Centauri) are included as non-orbiting massive test cases.
 - Code is structured for extension: adding collisions, relativistic effects, or visualization of light curves.
 
+- Made first in Jupyter Notebook. Can run in terminal simply using:
+
+```bash
+python solar_system.py
+```
+
 ## Requirements
 
 - Python 3.7+
